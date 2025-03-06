@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HackerHari002
+- 👋 Hi, I’m @Hack002
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning B. Tech 1st year
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Ethical Hacker
 - 📫 How to reach me clear mind set clarity
 
